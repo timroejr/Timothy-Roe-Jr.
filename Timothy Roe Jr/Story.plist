@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Story</key>
+	<dict>
+		<key>storys</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<string>November 17, 1998
+</string>
+				<key>headline</key>
+				<string>Born</string>
+				<key>image</key>
+				<string>"baby.png"</string>
+				<key>location</key>
+				<string>San Dimas, CA
+</string>
+				<key>story</key>
+				<string>I was born in San Dimas, CA on November 17, 1998
+</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<string>November 17, 1998
+</string>
+				<key>headline</key>
+				<string>Born</string>
+				<key>image</key>
+				<string>"baby.png"</string>
+				<key>location</key>
+				<string>San Dimas, CA
+</string>
+				<key>story</key>
+				<string>I was born in San Dimas, CA on November 17, 1998
+</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<string>November 17, 1998
+</string>
+				<key>headline</key>
+				<string>Born</string>
+				<key>image</key>
+				<string>"baby.png"</string>
+				<key>location</key>
+				<string>San Dimas, CA
+</string>
+				<key>story</key>
+				<string>I was born in San Dimas, CA on November 17, 1998
+</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<string>November 17, 1998
+</string>
+				<key>headline</key>
+				<string>Born</string>
+				<key>image</key>
+				<string>"baby.png"</string>
+				<key>location</key>
+				<string>San Dimas, CA
+</string>
+				<key>story</key>
+				<string>I was born in San Dimas, CA on November 17, 1998
+</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<string>November 17, 1998
+</string>
+				<key>headline</key>
+				<string>Born</string>
+				<key>image</key>
+				<string>"baby.png"</string>
+				<key>location</key>
+				<string>San Dimas, CA
+</string>
+				<key>story</key>
+				<string>I was born in San Dimas, CA on November 17, 1998
+</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

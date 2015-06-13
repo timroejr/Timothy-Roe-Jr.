@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" alpha="0.75" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="92W-js-Py9">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+                    <color key="backgroundColor" red="0.020437054699999999" green="0.58664151679999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+                <view alpha="0.75" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="20W-dm-rYf">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+                    <color key="backgroundColor" red="0.020437054699999999" green="0.58664151679999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Ik4-0K-Qwe"/>
+                <constraint firstAttribute="bottom" secondItem="20W-dm-rYf" secondAttribute="bottom" id="Pd2-k8-N7o"/>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="trailing" secondItem="92W-js-Py9" secondAttribute="trailing" id="UU9-bX-iIn"/>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="leading" secondItem="92W-js-Py9" secondAttribute="leading" id="cC4-LA-z4I"/>
+                <constraint firstAttribute="trailing" secondItem="20W-dm-rYf" secondAttribute="trailing" id="hif-lK-K6q"/>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="top" secondItem="92W-js-Py9" secondAttribute="top" id="pVb-NU-J9f"/>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="w16-cO-l8P"/>
+                <constraint firstItem="20W-dm-rYf" firstAttribute="bottom" secondItem="92W-js-Py9" secondAttribute="bottom" id="zdy-yl-eMO"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="background2.jpg" width="2816" height="1880"/>
+    </resources>
+</document>
